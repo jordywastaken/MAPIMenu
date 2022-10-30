@@ -130,7 +130,7 @@ void Widgets::SetTextPosAndHeight(paf::PhText* text, paf::vec2 pos, float height
 Frontend::Frontend(Function mainMenu) : m_CurrentSubmenu(mainMenu)
 {
 	g_Config = Config();
-	vsh::ShowNavigationMessage(L"MAPI Menu successfully loaded\r\nPress \uF888 + \uF88D to open");
+	vsh::ShowNavigationMessage(L"MAPI Menu successfully loaded\r\nPress \uF888 + \uF88A to open");
 }
 
 void Frontend::OnUpdate()
