@@ -1,5 +1,5 @@
 # MAPIMenu
-this is a replica of the ccapi vsh menu         
+this is almost an exact replica of the ccapi vsh menu         
 features not implemented:
 - auto save/load config
 - show temperature
